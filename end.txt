@@ -1,2 +1,4 @@
 こんにちは
 うんちが漏れそうです
+・git add
+・git commit
